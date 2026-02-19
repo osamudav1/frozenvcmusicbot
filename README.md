@@ -112,7 +112,7 @@
 10. **Run the Bot**
     ```bash
     python3 main.py
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━-
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
